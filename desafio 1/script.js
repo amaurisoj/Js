@@ -14,3 +14,5 @@ if ( souHumano == true) {
 console.log( `Meu nome é ${nome} e meu ano de nascimento é ${nascimento} fazendo eu ter ${idade} anos em ${ano}`) 
 console.log (number1 + number5) 
 console.log( 3 > 2 )
+
+/DESAFIO 2//
